@@ -1,17 +1,10 @@
 [![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)](https://github.com/stalin-rodrigues)
 
 <h1 align="center">Hi 👋, I'm Stalin Rodrigues</h1>
-<h3 align="center">Full Stack Developer | Flutter Specialist | Java Engineer</h3>
+<h3 align="center">Tech Enthusiast | Full Stack Developer | Flutter Developer | Java Programmer | Lifelong Learner.</h3>
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-  <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=stalin-rodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="stalin-rodrigues" />
-    <a href="https://github.com/stalin-rodrigues?tab=followers">
-      <img src="https://img.shields.io/github/followers/stalin-rodrigues?label=Followers&style=social" alt="GitHub Followers">
-    </a>
-  </p>
 </div>
 
 ---
