@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Stalin Rodrigues</h1>
 <h3 align="center">Tech Enthusiast | Full Stack Developer | Flutter Developer | Java Programmer | Lifelong Learner.</h3>
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+
 
 ---
 
