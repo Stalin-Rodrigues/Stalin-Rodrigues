@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif)](https://github.com/stalin-rodrigues)
 
 <h1 align="center">Hi 👋, I'm Stalin Rodrigues</h1>
-<h3 align="center">Tech Enthusiast | Full Stack Developer | Flutter Developer | Java Programmer | Lifelong Learner.</h3>
+<h3 align="center">Tech Enthusiast | Full Stack Developer | Flutter Developer | UI/UX Design | Java Programmer | Lifelong Learner.</h3>
 
 
 
